@@ -1,6 +1,6 @@
 # 📈UptimeFlare
 
-A more advanced, serverless, and free uptime monitoring & status page solution, powered by Cloudflare Workers, complete with a user-friendly interface.
+开始部署吧
 
 ## ⭐Features
 - Open-source, easy to deploy (in under 10 minutes, no local tools required), and free
@@ -29,14 +29,3 @@ Some screenshots:
 ## ⚡Quickstart / 📄Documentation
 
 Please refer to [Quickstart](https://github.com/lyc8503/UptimeFlare/wiki/Quickstart) and [Wiki](https://github.com/lyc8503/UptimeFlare/wiki)
-
-## TODOs
-
-- [x] TCP `opened` promise
-- [x] ~~SSL certificate checks~~
-- [x] Telegram example
-- [x] [Bark](https://bark.day.app) example
-- [ ] Slack example
-- [ ] Incident timeline
-- [x] ~~Email notification via Cloudflare Email Workers~~
-- [x] Specify region for monitors
